@@ -1,0 +1,271 @@
+#mathbody{
+	background-image: url(edu.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+    background-attachment:fixed;
+}
+
+#logo{
+	float:left;
+}
+
+#head{
+	width:60%;
+	margin: auto;
+}
+
+#mathh1{
+	color:orange;
+	text-align:center;
+	font-size:135px;
+	margin-top: 0px;
+    margin-bottom: -40px;
+    padding-bottom: 0px;
+	font-family: Courier;
+}
+
+#mathh3{
+	color:yellow;
+	text-align: right;
+	font-size:20px;
+	margin-top:-15px;
+	padding-top: 0px;
+	margin-right: -80px 
+}
+
+#quote{
+	width:40%;
+	padding-left:350px;
+}
+
+#scroll{
+	height: 100px;
+	width:100%;
+	padding-left:100px ;
+	color:red;
+	background-color:#00fbff;
+}
+
+#pure{
+	float: left;
+	background-color:yellow;
+	color:#42ff03; 
+	margin-top:-70px;
+	padding:10px 15px;
+	margin-left: 50px;
+	margin-right: -90px;   
+	background-image: url(pic.jpg)
+}
+
+#applied{
+	float: right;
+	background-color:violet;
+	color:#42ff03;
+	margin-top:-65px;
+	padding:10px 15px;
+	margin-right:20px;
+	background-image: url(pic.jpg)
+}
+
+#linkcolor{
+	color:#f00;
+}
+
+#definemath{
+	text-align:justify; 
+	background-color:#ffeb54; 
+	font:bold 13px monospace;
+	width:605px;
+	height: 500px; 
+	padding-left:10px;
+	border:5px outset red;
+	margin-top: 10px;
+	margin-left: 350px;
+	padding: 5px 10px;
+	color: green;
+}
+
+#fam{
+	float: right;
+	background-color:#5f61f2;
+	color:pink; 
+	margin-top:-175px;
+	margin-right:20px;
+	padding:10px 15px;
+	padding-left: 50px;
+	padding-right: 40px
+}
+
+#epo{
+	float: right;
+	background-color:#ff8f00;
+	color:pink; 
+	margin-top:-110px;
+	margin-right:20px;
+	padding:10px 15px;
+	padding-left: 57px;
+	padding-right: 50px
+}
+
+#seq{
+	float: right;
+	background-color:#ff00cb;
+	color:pink; 
+	margin-top:-40px;
+	margin-right:20px;
+	padding:5px ;
+	padding-left: 60px;
+	padding-right: 60px
+}
+
+#reg{
+	float: left;
+	background-color:yellow;
+	color:red; 
+	margin-top:-185px;
+	padding:10px 15px;
+	margin-left: 50px;
+	padding-right: 100px;
+	padding-left: 80px
+}
+
+#trig{
+	float: left;
+	background-color:#4bff19;
+	color:red; 
+	margin-top:-120px;
+	padding:10px 15px;
+	margin-left: 50px;
+	padding-right: 50px;
+	padding-left:40px
+}
+
+#famth{
+	float: left;
+	background-color:#00ffdb;
+	color:red; 
+	margin-top:-45px;
+	padding:5px 15px;
+	margin-left: 50px;
+	padding-right: 35px;
+	padding-left: 35px
+}
+
+#puremathbody{
+	background-image: url(purem.jpg);
+	background-repeat: no-repeat;
+	background-size:cover; 
+	background-attachment:fixed;
+}
+
+#puremathhead1{
+	color:#621f1f; 
+	background-color:#0cffaf;
+	text-align:center;
+	font-size:90px; 
+	margin-left: 220px;
+	margin-top: 0px;
+	margin-right: 220px;  
+	margin-bottom: -40px;
+	padding-bottom: 0px;
+	font-family:monospace;
+}
+
+#puremathnumber{
+	text-align:justify; 
+	background-color:#356433; 
+	font:bold 12px monospace;
+	width:870px;height: 290px; 
+	border:3px outset #eb00ff;
+	margin-top: 60px;
+	margin-left: 220px;
+	padding: 5px 10px;
+	color: #a6ff06;
+}
+
+#puremathalgebra{
+	text-align:justify; 
+	background-color:#356433; 
+	font:bold 12px monospace;
+	width:885px;
+	height: 290px; 
+	padding-left:10px;
+	border:3px outset #eb00ff;
+	margin-top: 60px;
+	margin-left: 220px;
+	padding: 5px 10px;
+	color:#a6ff06 ;
+}
+
+#puremathgeometry{
+	text-align:justify; 
+	background-color:#356433; 
+	font:bold 12px monospace;
+	width:885px;
+	height: 310px; 
+	padding-left:10px;
+	border:3px outset #eb00ff;
+	margin-top: 60px;
+	margin-left: 220px;
+	padding: 5px 10px;
+	color: #a6ff06;
+}
+
+#purematharithmetic{
+	text-align:justify; 
+	background-color:#356433; 
+	font:bold 12px monospace;
+	width:885px;
+	height: 140px; 
+	padding-left:10px;
+	border:3px outset #eb00ff;
+	;margin-top: 60px;
+	margin-left: 220px;
+	padding: 5px 10px;
+	color: #a6ff06;
+}
+
+#puremathcombi{
+	text-align:justify; 
+	background-color:#356433; 
+	font:bold 12px monospace;
+	width:885px;
+	height: 340px; 
+	padding-left:10px
+	;border:3px outset #eb00ff;
+	margin-top: 60px;
+	margin-left: 220px;
+	padding: 5px 10px;
+	color: #a6ff06;
+}
+
+#puremathtopo{
+	text-align:justify;
+	background-color:#356433;
+	font:bold 12px monospace;
+	width:885px;
+	height: 270px; 
+	padding-left:10px;
+	border:3px outset #eb00ff;
+	margin-top: 60px;
+	margin-left: 220px;
+	padding: 5px 10px;
+	color: #a6ff06;
+}
+
+#puremathmathema{
+	text-align:justify; 
+	background-color:#356433; 
+	font:bold 12px monospace;
+	width:885px;
+	height: 160px; 
+	padding-left:10px;
+	border:3px outset #eb00ff;
+	margin-top: 60px;
+	margin-left: 220px;padding: 5px 10px;
+	color: #a6ff06;
+}
+
+#puremathsource{
+	margin-left:1120px
+}
